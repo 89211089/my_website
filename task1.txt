@@ -1,0 +1,11 @@
+* a45c8b3 (origin/master, origin/hotfix, origin/HEAD, master, hotfix) adding hotfix
+| * ee17989 (HEAD -> featureA, origin/featureA) komita
+| * 99badf2 new branch featureA changes
+| * c9c0072 work in new Branch
+|/  
+* 374caf5 index adding
+* 283c900 (testing) proba
+* 3c5475a novi
+* 4cf2f4e ha
+* 6d7c8a8 after adding ana
+* 134d03e Imitial project version
